@@ -34,3 +34,10 @@ reactor dom installation
 ```
 npm install -D react-router-dom
 ```
+
+to start
+
+```
+node --env-file=config.env server (server)
+npm run dev (client)
+```
